@@ -19,7 +19,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### Run the Project
 ```python
 # Load and run the Jupyter notebook
-jupyter notebook Iris_Flower_Classification.ipynb
+jupyter notebook CodeAlpha_Iris_Flower_Classification.ipynb
 ```
 
 ## 📁 Project Structure
