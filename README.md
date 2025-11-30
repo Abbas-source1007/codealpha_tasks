@@ -43,3 +43,33 @@ Iris-Classification/
 
 ## 👨‍💻 Author
 Abdullahi Abbas - Data Science Intern
+
+
+# codealpha_tasks2
+# Car Price Prediction
+
+## Project Description
+Machine learning model that predicts used car prices based on features like brand, year, mileage, and other specifications.
+
+## Results
+- **Best Model**: Gradient Boosting
+- **R² Score**: 0.9869 (98.69% accuracy)
+- **Prediction Error**: ±₹31,000
+- **Dataset**: 301 used cars
+
+## Installation
+pip installed: pandas numpy matplotlib seaborn scikit-learn
+
+Usage
+Open and run the car price prediction Jupyter notebook to train models and make predictions.
+
+Models Tested
+Gradient Boosting (98.69%)
+Random Forest (97.78%)
+Linear Regression (88.16%)
+
+Key Features
+Year, Present Price, Kilometers Driven, Fuel Type, Transmission, Owner History,Car Brand, Engine Specifications
+
+Author
+Abdullahi Abbas - Data Science Intern
