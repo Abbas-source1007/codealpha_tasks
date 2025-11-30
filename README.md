@@ -61,9 +61,11 @@ Machine learning model that predicts used car prices based on features like bran
 
 pip installed: pandas numpy matplotlib seaborn scikit-learn
 
+
 Usage
 
 Open and run the car price prediction Jupyter notebook to train models and make predictions.
+
 
 Models Tested
 
@@ -73,9 +75,11 @@ Random Forest (97.78%)
 
 Linear Regression (88.16%)
 
+
 Key Features
 
 Year, Present Price, Kilometers Driven, Fuel Type, Transmission, Owner History,Car Brand, Engine Specifications
+
 
 Author
 
