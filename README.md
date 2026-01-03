@@ -25,10 +25,10 @@ jupyter notebook CodeAlpha_Iris_Flower_Classification.ipynb
 ## 📁 Project Structure
 ```
 Iris-Classification/
-├── Iris_Flower_Classification.ipynb  # Main notebook
-├── Iris.csv                         # Dataset
-├── README.md                        # This file
-└── requirements.txt                 # Dependencies
+ Iris_Flower_Classification.ipynb  # Main notebook
+ Iris.csv                         # Dataset
+ README.md                        # This file
+ requirements.txt                 # Dependencies
 ```
 
 ## 🔧 Models Implemented
